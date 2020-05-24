@@ -13,3 +13,7 @@ The following paper should be cited in any research product whose findings are b
 [Core Decomposition of Uncertain Graphs](https://doi.org/10.1145/2623330.2623655).<br>
 Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2014), pp. 1316-1325. New York, NY, USA - August 24-27, 2014.
 <p>
+  
+## Running
+- `KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees.java`
+- `KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees_LB.java`
