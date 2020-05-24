@@ -1,5 +1,5 @@
 # Core Decomposition of Uncertain Graphs
-<strong>Copyright 2009-2020, Francesco Bonchi (ISI FOundation, Italy), Francesco Gullo (UniCredit, Italy), Andreas Kaltenbrunner (NTENT, Spain), Yana Volkovich (Xandr, USA)</strong>
+<strong>Copyright 2009-2020, Francesco Bonchi (ISI Foundation, Italy), Francesco Gullo (UniCredit, Italy), Andreas Kaltenbrunner (NTENT, Spain), Yana Volkovich (Xandr, USA)</strong>
 <p>
 
 This is a Java software package that implements algorithms described in the paper "Core Decomposition of Uncertain Graphs", KDD 2014.<br>
