@@ -23,5 +23,9 @@ This class implements Algorithm 2 in the paper. It can be run as follows:
 ```
 java KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees $DATASET $ETA $RUNS
 ```
+where `$DATASET` is the dataset, `ETA` is the `\eta \in [0,1]` threshold of the resulting (k,\eta)-core decomposition, and `RUNS` is the number of runs the algorithm is executed for.
+
+**IMPORTANT**: the dataset file should be in the same folder as the class.
+
 
 ### `KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees_LB.java`
