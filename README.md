@@ -31,7 +31,7 @@ where `$DATASET` is the dataset, `$ETA` is the `\eta \in [0,1]` threshold of the
 
 ### `KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees_LB.java`
 
-This class implements an imporved (yet faster) version of Algorithm 2 in the paper. 
+This class implements an improved (yet faster) version of Algorithm 2. 
 It is based on the use of a lower-bound on \eta-degrees, which is described in detail in Section 4 in the paper. 
 It can be run as follows:
 
