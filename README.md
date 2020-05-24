@@ -40,4 +40,9 @@ java KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees_LB $D
 ```
 where `$DATASET` is the dataset, `$ETA` is the `\eta \in [0,1]` threshold of the resulting (k,\eta)-core decomposition, and `$RUNS` is the number of runs the algorithm is executed for.
 
-**IMPORTANT**: the dataset file should be in the same folder as the class.
+The class needs a file containing incomplete-beta-function values for the dataset at hand. 
+Such a file should be placed into the `beta_function_values` folder, and should be named `$DATASET_beta_matlab.txt_output`.
+A Matlab script to compute such a file is in `matlab/beta_function_values_v3.m` (but it can clearly computed by using any other script or language).
+
+
+**IMPORTANT**: the dataset file and the `beta_function_values` folder should be in the same folder as the class.
