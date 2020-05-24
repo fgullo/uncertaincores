@@ -16,5 +16,8 @@ Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discove
   
 ## Running
 - `KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees.java`<br>
-This class implements Algorithm 2 in the paper.
+This class implements Algorithm 2 in the paper. It can be run as follows:
+```
+java KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees $DATASET $ETA $RUNS
+```
 - `KEtaCores_DynamicProgramming_BigDecimals_IncrementalInitialEtaDegrees_LB.java`
